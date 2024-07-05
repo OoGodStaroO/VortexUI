@@ -1,0 +1,28 @@
+{
+  "format_version": 2,
+   "header": {
+    "description": "Minecraft Bedrock Edition UI Pack\nBy GodStar",
+    "name": "Vortex UI",
+    "uuid": "b7a7c78d-6f3d-4225-8c6a-beb9f1b3a7a8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      13,
+      0
+    ]
+  },
+"modules": [{vgdffv
+"description": "",
+"type": "resources",
+"uuid": "53f2e38f-8d6f-41b7-93a3-967207dadb86",
+"version": [
+1,
+0,
+0
+]
+}]
+}w
